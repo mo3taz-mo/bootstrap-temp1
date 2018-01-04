@@ -1,0 +1,14 @@
+/*
+    first color: #08526d;
+    second color: #ec1c23;
+*/
+/* Start Top Bar */
+.upper-bar {
+    background-color: #08526d;
+    color: #fff;
+}
+.upper-bar .phone-section,
+.upper-bar .mail-section {
+    display: inline-block;
+}
+/* ./ End Top Bar */
